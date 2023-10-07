@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+main.test {
+    background-color: aqua;
+}
+
+#scrollValue {
+    padding: 20px;
+    border-radius: 5px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #aaa;
+}
